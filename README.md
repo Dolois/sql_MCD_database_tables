@@ -18,8 +18,8 @@
 
 ------------------------------------
 #### Travail réalisé :
-#### 1) Réaliser un Modèle Conceptuel de Données
-#### 2) Créer pour chaque type d'instruction SQL un script
+#### 1) Réaliser un Modèle Conceptuel de Données avec StarUML
+#### 2) Créer pour chaque type d'instruction SQL un script avec MySQL Workbench
 #### 3) Créer une base de données
 #### 4) Créer les entités que vous estimez avoir besoin pour votre projet
 ####    avec ses attributs.
