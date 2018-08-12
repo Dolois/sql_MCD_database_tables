@@ -30,3 +30,4 @@
 #### 7) Vous pouvez réaliser des requètes avec des conditions 
 ####    en utilisant les instructions WHERE, AND, OR
 #### En plus, vous pourriez effectuer une jointure simple entre deux tables.
+#### 8) Supprimer certaines occurences saisies des tables.
