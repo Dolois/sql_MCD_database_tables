@@ -1,7 +1,7 @@
 USE batiment;
 
 CREATE TABLE niveau_parking (
-    -- l'attribut niveau_parking aura des valeurs de type int
+    -- l'attribut niveau_parking aura des valeurs de type INT
 	-- et ne pourra pas être à NULL
 	-- et s'auto-incrémente
 	niveau_parking INT NOT NULL AUTO_INCREMENT,
