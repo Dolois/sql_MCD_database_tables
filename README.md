@@ -7,13 +7,14 @@
 ### -un étage il peut y avoir des bureaux et des appartements. 
 ### -Le parking se compose de plusieurs places numérotées, chacune appartenant a un bureau ou à un appartement. 
 
-Travail à faire : 
- Créer les diagrammes de base de données UML.
-Créer les tables pour cette BDD en utilisant workbench.
-Exécution requête
-Entrée 10 données dans chaque table avec la commande INSERT 
-Afficher les tables avec la commande SELECT
-DELETE
+### Travail à faire : 
+### Créer les diagrammes de base de données UML.
+### Créer les tables pour cette BDD en utilisant workbench.
+### Exécution requête
+### Entrée 10 données dans chaque table avec la commande INSERT 
+### Afficher les tables avec la commande SELECT
+### DELETE
+
 
 ------------------------------------
 
